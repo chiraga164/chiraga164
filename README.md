@@ -7,7 +7,7 @@ I'm a Full Stack Engineer by profession.
 Technologies:
 
     Javascript, Angular, Vue, jQuery, PWA
-    Node, Java
+    Node, Java, Android, SQL
 
 Also interested in:
 
